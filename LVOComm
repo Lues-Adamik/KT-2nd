@@ -1,0 +1,23 @@
+{
+	"ver":"LVO2020 Comm",
+	"names": [
+		["Four Quarters","Divide the battlefield into four equal rectangles, a corner of each of which meets the other in the center of the battlefield. At the end of the Battle round, Score 1 VP if there is at least one model from your Kill Team (other than shaken models) wholly within each of these rectangles but not within 3” of the center of the battlefield."],
+		["Steadfast","At the end of the mission, score 3 VP if there is at least 1 objective marker that you have controlled at the end of each battle round."],
+		["Dog Pile","At the end of the Movement phase, score 1 VP if two, or more, different non-Commander models from your Kill Team made a successful charge move against one enemy model in that phase."],
+		["Overkill","At the end of the Battle Round, score 1 VP if you rolled two or more dice in an Injury roll for an enemy model and that model was taken out of action by that Injury roll. Alternatively; score 1 VP if you put more successful Wounds on an enemy model than they have remaining Wounds and that model was taken Out of Action. Unresolved attacks already targeted towards this model may be resolved for the purposes of scoring this secondary."],
+		["Mind Games","At the end of the Morale phase, score 1 victory point if your opponent is forced to take a break test. Score 3 victory points if they successfully break."],
+		["David and Goliath","Score 3 VP if a non-Commander model takes an enemy Commander model Out of Action."],
+		["Hold The Perimeter","Score 1 VP if 3 or more models are within 3” of 3 different board corners."],
+		["Commanding Aura","At the end of the Battle Round, score 1 VP if a Commander model used an Aura Ability this turn."],
+		["Death From Afar","When a model from your Kill Team makes a shooting attack at long range that takes an enemy model Out of Action, score 1 VP."],
+		["Brace Yourselves","At the end of the Movement phase, if more than half of your team (including Shaken models) that remain on the board have Readied, gain 1 VP."],
+		["Bounty Hunters","When an enemy model is taken Out of Action, place a Token (1” or less) wholly underneath its base before removing the model from the battlefield. Score 1 VP if a model from your kill team ends any move in contact with any of your markers, and then remove one of the markers your model is in contact with."],
+		["Whirlwind","Score 1 VP if one model from your Kill Team forced an Injury roll on 2 or more enemy models in one Battle Round."],
+		["Complete Control","Score 3 VP if you control every Objective at the end of a Battle Round."],
+		["Art of Combat","Score 1 VP if you Retreated, Fell Back, or Consolidated into an enemy model that you were not already within 1” of with two or more non-Commander models in a single Battle Round."],
+		["Domination","If you have more models within 3” of the center of the board than your opponent at the end of the Movement Phase, score 1 VP."],
+		["Survivor","Pick a model from your Kill Team (other than a Commander) and reveal which model you have chosen to your opponent before you roll your first Initiative roll. If at the end of the battle that unit is wholly outside of your deployment zone and still on the battlefield, score 3 victory points if this model has 0 flesh wounds, 2 victory points if they have 1 flesh wound, and 1 victory point if they have 2 or more flesh wounds. This model cannot be put in reserve."],
+		["Abduction","Score 1 VP if a model from your Kill Team takes an enemy model Out of Action while that model was within 2” of 2 or more non-Commander models (other than Shaken models) from your Kill Team."],
+		["Old School*","Score 1 VP if your kill team takes one or more enemy models Out of Action in the first Battle Round. In addition; Score 1 VP (to a maximum of 1) if you have at least one model wholly within the enemy's deployment zone at the end of the game. In addition; score 2 VP for killing the enemy's Leader."]
+	]
+}
