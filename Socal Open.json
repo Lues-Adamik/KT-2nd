@@ -1,0 +1,17 @@
+{
+	"ver":"Socal2020 Open",
+	"names": [
+		["Marked for Death","Choose 3 of your opponent’s units (other than the Leader.) Reveal to your opponent which units you have chosen before your first Initiative roll. Score 1 VP for each of these units that is taken Out of Action."],
+		["Data Recovery","At the end of the mission, score 3 VP if there is at least 1 objective marker that you have controlled at the end of each battle round."],
+		["Vicious Assault","At the end of the Movement Phase, score 1 VP if two or more different models from your kill team made a successful Charge move in this phase."],
+		["Mind Games","At the end of the Morale phase, score 1 victory point if your opponent is forced to take a break test. Score 3 victory points if they successfully break."],
+		["Hold The Perimeter","Score 1 VP if 3 or more models are within 3” of 3 different board corners."],
+		["Proximity Alert","At the end of the Battle Round, score 1 VP if there is an enemymodel within 2” of two or more models (other than shaken models) from your kill team."],
+		["Gun Line","At the end of the Shooting phase, score 1 VP if five or more readied models from your kill team rolled to hit a target."],
+		["Headhunter","Score 1 VP for every enemy specialist (other than the leader) Out of Action. Score 3 VP if all enemy specialists (other than the leader) are Out of Action or shaken."],
+    ["Domination","If you have more models within 3” of the center of the board than your opponent at the end of the Movement Phase, score 1 VP."],
+		["Survivor","Pick a model from your Kill Team and reveal which model you have chosen to your opponent before you roll your first Initiative roll. If at the end of the battle that unit is wholly outside of your deployment zone and still on the battlefield, score 3 victory points if this model has 0 flesh wounds, 2 victory points if they have 1 flesh wound, and 1 victory point if they have 2 or more flesh wounds. This model cannot be put in reserve."],
+		["Obliteration","At the end of the Battle Round, score 1 VP if you rolled two or more dice in an injury roll for an enemy model and that model was taken out of action by that Injury roll."],
+		["Old School*","Score 1 VP if your kill team takes one or more enemy models Out of Action in the first Battle Round. In addition; Score 1 VP (to a maximum of 1) if you have at least one model wholly within the enemy's deployment zone at the end of the game. In addition; score 2 VP for killing the enemy's Leader."]
+	]
+}
