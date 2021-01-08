@@ -5,15 +5,15 @@
 		["Recon Sweep","At the end of the battle round, score 1 victory point if one or more models from your kill team (other than shaken models) are wholly within the enemy deployment zone."],
 		["Bounty Hunters","When an enemy model is taken out of action, place a Kill Team token in contact with its base before removing the model from the battlefield. Score 1 victory point if a model from your kill team ends its move in contact with any of these markers, and then remove one of those markers the model is in contact with."],
 		["Thin Their Ranks","At the end of the battle round, score 1 victory point if two or more enemy models were taken out of action in that battle round."],
-		["Cut Off The Head","When the enemy Leader is taken out of action, score 3 victory points."],
+		["Cut Off The Head","Score 3 VP if the enemy Leader is taken out of action for any reason."],
 		["Attrition","At the end of the battle round, score 1 victory point if more enemy models than friendly models were taken out of action in this battle round."],
 		["Scout the Field","At the end of the battle round, score 1 victory point if there are models from your kill team (other than shaken models) within 1” of at least three different battle edges. Models wholly within your deployment zone do not count unless they are within 1” of a battlefield edge that does not extend beyond your deployment zone, in which case they only count for one battlefield edge."],
 		["High Profile Targets","When an enemy specialist (other than a Leader) is taken out of action, score 1 victory point, for a maximum of 3 victory points. If all enemy specialists have been taken out of action, score the maximum 3 victory points even if the number of specialists is less."],
 		["Engage on All Fronts","Divide the battlefield into four equal rectangles, a corner of each of which meets the others in the center of the battlefield. At the end of the battle round, score 1 victory point if there is at least one model from your kill team (other than shaken models) wholly within each of these rectangles."],
 		["Domination","At the end of the battle round, score 1 victory point if more models from your kill team are within 3” of the centre of the battlefield than there are enemy models within 3” of the centre of the battlefield (not including shaken models)."],
 		["Death from Afar","When a model from your kill team makes a shooting attack at long range that takes an enemy model out of action, score 1 victory point."],
-    ["Hip Shot","When a model from your kill team makes a shooting attack that takes an enemy model out of action and that model was at less than 50% of its ranged weapons distance characteristic, score 1 victory point."],
+   		["Hip Shot","Score 1 victory point if a model from your kill team took an enemy model out of action with a shooting attack, and that model was at less than 50% of its ranged weapons distance characteristic."],
 		["Cut Apart","At the end of the Fight phase, score 1 victory point if one or more models from your kill team made an attack that took an enemy model out of action in that phase."],
-    ["Vicious Assault","At the end of the Movement Phase, score 1 VP if two or more different models from your kill team made a successful Charge move in this phase."]
+   		["Vicious Assault","Score 1 victory point if models from your kill team made two or more successful charges in this battle round."]
 	]
 }
